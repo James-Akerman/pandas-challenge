@@ -58,7 +58,7 @@ The report includes a list of trends found in the data as well as the following 
 #### Scores by School Type
 ![scores by school type](images/scores-by-school-type.PNG)
 
-## Tools/Packages
+## Tools/Packages used
 - Python
   - Pandas
 
