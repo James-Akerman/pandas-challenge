@@ -1,5 +1,6 @@
 # School District Analysis
 
+## Overview of the Project
 This respository contains a [jupyter notebook script](PyCitySchools/PyCitySchools_James-Akerman.ipynb) which uses to pandas to analyse data from a hypothetical school district in order to help a school board and mayor make strategic decisions regarding future school budgets and priorities.
 
 The report includes a list of trends found in the data as well as the following tables:
