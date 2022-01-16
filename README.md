@@ -1,80 +1,68 @@
-# pandas-challenge
-In this Monash University Data Analytics Boot Camp/Trilogy Education Services homework I choose to do the **PyCitySchools** challenge.
+# School District Analysis
 
-I this challenge I acted as the Chief Data Scientist for my city's school district. In this capacity, I was helping the school board and mayor make strategic decisions regarding future school budgets and priorities.
+This respository contains a [jupyter notebook script](PyCitySchools/PyCitySchools_James-Akerman.ipynb) which uses to pandas to analyse data from a hypothetical school district in order to help a school board and mayor make strategic decisions regarding future school budgets and priorities.
 
-As my first task, I was sked to analyse the district-wide standardised test results. I was given access to every student's math and reading scores, as well as various information on the schools they attend. It was my responsibility to aggregate the data to and showcase obvious trends in school performance.
 
-My report included each of the following:
+The report includes the following:
+#### District Summary
 
-### District Summary
+[district summary](images/district-summary.PNG)
 
-* A high level snapshot (in table form) of the district's key metrics, including:
-  * Total Schools
-  * Total Students
-  * Total Budget
-  * Average Math Score
-  * Average Reading Score
-  * % Passing Math (The percentage of students that passed math.)
-  * % Passing Reading (The percentage of students that passed reading.)
-  * % Overall Passing (The percentage of students that passed math **and** reading.)
+<br>
 
-### School Summary
+#### School Summary
 
-* An overview table that summarises key metrics about each school, including:
-  * School Name
-  * School Type
-  * Total Students
-  * Total School Budget
-  * Per Student Budget
-  * Average Math Score
-  * Average Reading Score
-  * % Passing Math (The percentage of students that passed math.)
-  * % Passing Reading (The percentage of students that passed reading.)
-  * % Overall Passing (The percentage of students that passed math **and** reading.)
+[school summary](images/school-summary.PNG)
 
-### Top Performing Schools (By % Overall Passing)
 
-* Create a table that highlights the top 5 performing schools based on % Overall Passing. Include:
-  * School Name
-  * School Type
-  * Total Students
-  * Total School Budget
-  * Per Student Budget
-  * Average Math Score
-  * Average Reading Score
-  * % Passing Math (The percentage of students that passed math.)
-  * % Passing Reading (The percentage of students that passed reading.)
-  * % Overall Passing (The percentage of students that passed math **and** reading.)
+<br>
 
-### Bottom Performing Schools (By % Overall Passing)
+#### Top Performing Schools (By % Overall Passing)
 
-* A table that highlights the bottom 5 performing schools based on % Overall Passing. Include all of the same metrics as above.
+[top performing schools](images/top-performing-schools.PNG)
 
-### Math Scores by Grade\*\*
 
-* A table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+<br>
 
-### Reading Scores by Grade
+#### Bottom Performing Schools (By % Overall Passing)
 
-* A table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+[bottom performing schools](images/bottom-performing-schools.PNG)
 
-### Scores by School Spending
 
-* A table that breaks down school performances based on average Spending Ranges (Per Student). I used 4 reasonable bins to group school spending. I included in the table each of the following:
-  * Average Math Score
-  * Average Reading Score
-  * % Passing Math (The percentage of students that passed math.)
-  * % Passing Reading (The percentage of students that passed reading.)
-  * % Overall Passing (The percentage of students that passed math **and** reading.)
+<br>
 
-### Scores by School Size
+#### Math Scores by Grade
 
-* In this task I repeated the above breakdown, but this time group schools were based on a reasonable approximation of school size (Small, Medium, Large).
+[math scores by grade](images/math-scores-by-grade.PNG)
 
-### Scores by School Type
+<br>
 
-* In this task I repeated the above breakdown, but this time group schools were based on school type (Charter vs. District).
+#### Reading Scores by Grade
 
-### Trends in the data
-* I also described three observable trends based on the data.
+[math scores by grade](images/reading-scores-by-grade.PNG)
+
+<br>
+
+#### Scores by School Spending
+
+[scores by school spending](images/scores-by-school-spending.PNG)
+
+<br>
+
+#### Scores by School Size
+
+[scores by school size](images/scores-by-school-size.PNG)
+
+<br>
+
+#### Scores by School Type
+[scores by school type](images/scores-by-school-type.PNG)
+
+## Tools/Packages
+- Python
+  - Pandas
+
+## How to use
+- Download the repository
+- Open Git Bash and type `jupyter notebook`
+- Go to the **PyCitySchools** folder and open the [jupyter notebook script](PyCitySchools/PyCitySchools_James-Akerman.ipynb).
