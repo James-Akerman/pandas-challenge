@@ -6,57 +6,57 @@ This respository contains a [jupyter notebook script](PyCitySchools/PyCitySchool
 The report includes the following:
 #### District Summary
 
-[district summary](images/district-summary.PNG)
+![district summary](images/district-summary.PNG)
 
 <br>
 
 #### School Summary
 
-[school summary](images/school-summary.PNG)
+![school summary](images/school-summary.PNG)
 
 
 <br>
 
 #### Top Performing Schools (By % Overall Passing)
 
-[top performing schools](images/top-performing-schools.PNG)
+![top performing schools](images/top-performing-schools.PNG)
 
 
 <br>
 
 #### Bottom Performing Schools (By % Overall Passing)
 
-[bottom performing schools](images/bottom-performing-schools.PNG)
+![bottom performing schools](images/bottom-performing-schools.PNG)
 
 
 <br>
 
 #### Math Scores by Grade
 
-[math scores by grade](images/math-scores-by-grade.PNG)
+![math scores by grade](images/math-scores-by-grade.PNG)
 
 <br>
 
 #### Reading Scores by Grade
 
-[math scores by grade](images/reading-scores-by-grade.PNG)
+![math scores by grade](images/reading-scores-by-grade.PNG)
 
 <br>
 
 #### Scores by School Spending
 
-[scores by school spending](images/scores-by-school-spending.PNG)
+![scores by school spending](images/scores-by-school-spending.PNG)
 
 <br>
 
 #### Scores by School Size
 
-[scores by school size](images/scores-by-school-size.PNG)
+![scores by school size](images/scores-by-school-size.PNG)
 
 <br>
 
 #### Scores by School Type
-[scores by school type](images/scores-by-school-type.PNG)
+![scores by school type](images/scores-by-school-type.PNG)
 
 ## Tools/Packages
 - Python
